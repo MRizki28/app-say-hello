@@ -1,0 +1,4 @@
+github.com/MRizki28/go-learn-2 v1.0.0 h1:m4h8cGexIMIOFZGkdIwwOIki2DSvD51U//ZlX4Jof68=
+github.com/MRizki28/go-learn-2 v1.0.0/go.mod h1:BpjSOEKK7U4RxFzp6NHraMHGLQkCvqto/rzFePx8RzQ=
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
